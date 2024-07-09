@@ -1,0 +1,4 @@
+requests==2.25.1
+azure-cognitiveservices-vision-computervision==0.8.0
+Pillow==8.0
+Flask==1.1.2
